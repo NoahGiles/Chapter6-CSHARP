@@ -1,0 +1,7 @@
+C:\Users\ng146468\Desktop\C-Sharp-Projects\Chapter-6\Hangman\Hangman\bin\Debug\Hangman.exe.config
+C:\Users\ng146468\Desktop\C-Sharp-Projects\Chapter-6\Hangman\Hangman\bin\Debug\Hangman.exe
+C:\Users\ng146468\Desktop\C-Sharp-Projects\Chapter-6\Hangman\Hangman\bin\Debug\Hangman.pdb
+C:\Users\ng146468\Desktop\C-Sharp-Projects\Chapter-6\Hangman\Hangman\obj\Debug\Hangman.csprojAssemblyReference.cache
+C:\Users\ng146468\Desktop\C-Sharp-Projects\Chapter-6\Hangman\Hangman\obj\Debug\Hangman.csproj.CoreCompileInputs.cache
+C:\Users\ng146468\Desktop\C-Sharp-Projects\Chapter-6\Hangman\Hangman\obj\Debug\Hangman.exe
+C:\Users\ng146468\Desktop\C-Sharp-Projects\Chapter-6\Hangman\Hangman\obj\Debug\Hangman.pdb
